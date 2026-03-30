@@ -38,10 +38,7 @@
 
     -   aliases behave like pointers in some respects
 
--   tools
-    -   venv
-        > uv venv --python 3.14.3
-        > source .venv/bin/activate  
+ 
 
 
 #### reference
